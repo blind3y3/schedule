@@ -18,3 +18,4 @@ php -S localhost:8080 -t public
 ```
 
 ### Переходим по адресу http://localhost:8080/schedule?startDate=1.1.2018&endDate=1.4.2018&userId=1
+### API работает с форматами Y-m-y и d.m.Y
